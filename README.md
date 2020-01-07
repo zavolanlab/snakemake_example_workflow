@@ -17,7 +17,7 @@ conda create -n snakemake -c bioconda -c conda-forge snakemake=5.8.1
 
 Download the repo
 ```bash
-git clone https://github.com/fmi-basel/ggrosshans_snakemake_example_workflow.git
+git clone https://github.com/zavolanlab/snakemake_example_workflow.git
 cd ggrosshans_snakemake_example_workflow
 ```
 
